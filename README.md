@@ -4,9 +4,9 @@ The usage is as follows:
 
 python image_eval.py --orig_path 'orig' --recon_path 'recon'  --image_ format ‘bmp’
 
-orig: the folder where the original image is placed
+orig: the folder where the original images are placed
 
-recon: the folder where the reconstructed graph is placed
+recon: the folder where the reconstructed images are placed
 
 image_ format: The format of the image. 
 
